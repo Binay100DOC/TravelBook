@@ -9,7 +9,7 @@ const Users = () => {
       name: "Binay",
       image:
         "https://www.pinclipart.com/picdir/middle/167-1677865_facebook-button-image-facebook-small-icon-png-clipart.png",
-      place: 2,
+      place: 1,
     },
     {
       id: "u2",
